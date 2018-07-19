@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\mortar/canon_mat"
+	"$bumpmap" "models/mortar/canon_mat_normal"
+	"$surfaceprop" "metal"
+	$halflambert 			1
+	$blendtintbybasealpha		1
+}

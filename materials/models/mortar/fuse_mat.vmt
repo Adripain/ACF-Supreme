@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\mortar/fuse_mat"
+	"$bumpmap" "models/mortar/fuse_mat_normal"
+	$halflambert 			1
+	$blendtintbybasealpha		1
+}
