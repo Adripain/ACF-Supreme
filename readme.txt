@@ -1,6 +1,6 @@
 
 ######### This is a complementary addon to the master ACF.#########
--------------------> Armoured Combat Framework <-------------------
+-------------------> Armoured Combat Framework By Bubbus https://github.com/nrlulz/ACF <-------------------
 
 
 Armoured Combat Framework
