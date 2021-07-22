@@ -11,16 +11,16 @@ ACF_defineGunClass("OC", {
 } )
 
 --add a gun to the class
-ACF_defineGun("230mmOC", {
-	name = "230mm Old canon",
-	desc = "A pirate gun with a short range but a very heavy shell. It uses HE",
-	model = "models/mortar/canon.mdl",
-	gunclass = "OC",
-	caliber = 23.0,
-	weight = 3935,
-	year = 1782,
-	round = {
-		maxlength = 30,
-		propweight = 0.450
-	}
-} )
+--ACF_defineGun("230mmOC", {
+--	name = "230mm Old canon",
+--	desc = "A pirate gun with a short range but a very heavy shell. It uses HE",
+--	model = "models/mortar/canon.mdl",
+--	gunclass = "OC",
+--	caliber = 23.0,
+--	weight = 3935,
+--	year = 1782,
+--	round = {
+--		maxlength = 30,
+--		propweight = 5.450
+--	}
+--} )

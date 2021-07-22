@@ -4,7 +4,7 @@ ACF_defineGunClass("SH", {
 	name = "Short Howitzer",
 	desc = "Short Howitzers are limited to rather mediocre muzzle velocities, but can fire extremely heavy projectiles with large useful payload capacities.",
 	muzzleflash = "40mm_muzzleflash_noscale",
-	rofmod = 1.1,
+	rofmod = 4,
 	sound = "weapons/ACF_Gun/howitzer_fire3.wav",
 	soundDistance = "Howitzer.Fire",
 	soundNormal = " "

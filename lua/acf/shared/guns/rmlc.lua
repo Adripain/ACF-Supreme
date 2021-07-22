@@ -4,7 +4,7 @@ ACF_defineGunClass("RML", {
 	name = "Riffled Muzzle Loading Cannon",
 	desc = "A cannon from the United Kingdom of Great Britain and Ireland having served in 1877.",
 	muzzleflash = "40mm_muzzleflash_noscale",
-	rofmod = 2,
+	rofmod = 6,
 	sound = "weapons/ACF_Gun/howitzer_fire3.wav",
 	soundDistance = "Howitzer.Fire",
 	soundNormal = " "
@@ -22,7 +22,7 @@ ACF_defineGun("75mmRML", { --id
 	magsize = 1,
 	magreload = 1,
 	round = {
-		maxlength = 15,
+		maxlength = 28,
 		propweight = 1.9
 	}
 } )
@@ -38,7 +38,7 @@ ACF_defineGun("105mmRML", { --id
 	magsize = 1,
 	magreload = 1,
 	round = {
-		maxlength = 30,
+		maxlength = 40,
 		propweight = 3.4
 	}
 } )
@@ -54,7 +54,7 @@ ACF_defineGun("122mmRML", { --id
 	magsize = 1,
 	magreload = 1,
 	round = {
-		maxlength = 70,
+		maxlength = 60,
 		propweight = 7.4
 	}
 } )
@@ -70,8 +70,8 @@ ACF_defineGun("203mmRML", { --id
 	magsize = 1,
 	magreload = 1,
 	round = {
-		maxlength = 120,
-		propweight = 30
+		maxlength = 90,
+		propweight = 20
 	}
 } )
 
@@ -87,8 +87,8 @@ ACF_defineGun("240mmRML", { --id
 	magsize = 1,
 	magreload = 1,
 	round = {
-		maxlength = 150,
-		propweight = 34
+		maxlength = 120,
+		propweight = 28
 	}
 } )
 
@@ -103,8 +103,8 @@ ACF_defineGun("290mmRML", { --id
 	magsize = 1,
 	magreload = 1,
 	round = {
-		maxlength = 250,
-		propweight = 39
+		maxlength = 180,
+		propweight = 34
 	}
 } )
 
@@ -119,7 +119,7 @@ ACF_defineGun("406mmRML", { --id
 	magsize = 1,
 	magreload = 1,
 	round = {
-		maxlength = 380,
-		propweight = 70
+		maxlength = 210,
+		propweight = 49
 	}
 } )
