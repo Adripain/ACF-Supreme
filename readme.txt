@@ -1,6 +1,6 @@
 
 ######### This is a complementary addon to the master ACF.#########
--------------------> Armoured Combat Framework By Bubbus https://github.com/nrlulz/ACF <-------------------
+-------------------> Armoured Combat Framework <-------------------
 
 
 Armoured Combat Framework
@@ -13,11 +13,11 @@ When submitting a new issue or suggestion to ACF Issues page, please double-chec
 
 Be sure to check out the ACF Wiki for more ACF related information.
 
-Models and scripts are strictly private and do not have the right to be used without permission of one of the two creators. If you have ideas to improve the addon do not hesitate to contact one of the two creators on discord or steam.
+Models and scripts are strictly private and do not have the right to be used without permission of one of the two creators. You will find these cannons on the server "Les Moufettes". If you have ideas to improve the addon do not hesitate to contact one of the two creators on discord or steam.
 
 
 Discord creator :
 
 Adrien#3880 lua developper
-Crazykiller94200#2995 models creator
-
+Crazykiller94200#2995 3d models creator
+Nekroz#4117 3d models creator
